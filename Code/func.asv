@@ -1,0 +1,22 @@
+classdef func < handle
+    
+    properties
+        fx;
+        interv;
+        
+        der;
+        int;
+    end
+    
+    methods
+        function obj = func(fx, intervals)
+            obj.fx = fx;
+            obj.interv = intervals;
+        end        
+        
+        function int(obj, bound); 
+            obj.
+        end
+    end
+end
+

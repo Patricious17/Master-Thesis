@@ -1,0 +1,1 @@
+clf('reset',figure(1)); plotAgents;
